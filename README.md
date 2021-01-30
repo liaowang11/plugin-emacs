@@ -20,7 +20,13 @@ Benefits are multiple
 ### Usage
 
 To use this plugin, install it as:
+Fisher:
 
+``` bash
+fisher install liaowang11/plugin-emacs
+```
+
+OMF: 
 ```bash
 omf install emacs
 ```
